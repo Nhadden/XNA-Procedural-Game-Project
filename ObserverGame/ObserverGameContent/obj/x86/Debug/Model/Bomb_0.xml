@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Box01</Name>
+    <Identity>
+      <SourceFilename>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGameContent\Model\Bomb.FBX</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>2.54 0 0 0 0 7.19523466E-16 -2.54 0 0 2.54 7.19523466E-16 0 0 -31.75 0 1</Transform>
+    <Positions>0 -12.5 0 -12.5 0 0 0 0 -25 12.5 0 0 0 12.5 0 0 -12.5 25 -12.5 0 25 0 0 50 12.5 0 25 0 12.5 25 -12.5 -12.5 12.5 0 -37.5 12.5 12.5 -12.5 12.5 37.5 0 12.5 12.5 12.5 12.5 0 37.5 12.5 -12.5 12.5 12.5 -37.5 0 12.5</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 4 3 0 4 5 3 7 1 6 6 8 7 3 8 6 3 9 8 12 11 10 10 13 12 4 13 10 4 14 13 16 11 15 15 8 16 13 8 15 13 17 8 18 4 0 0 13 18 1 13 0 1 19 13 21 4 20 20 3 21 11 3 20 11 22 3 24 3 23 23 8 24 11 8 23 11 16 8 26 13 25 25 8 26 1 8 25 1 27 8</Indices>
+        <Vertices>
+          <PositionIndices>0 2 3 13 11 12 3 4 15 14 5 7 6 17 10 6 9 16 10 1 5 12 8 8 14 1 16 4</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -0.707106769 -0.7071068 0 0 -1 0.707106769 0 -0.7071068 1 0 0 6.016205E-08 -1 0 0.707106769 -0.707106769 0 0.707106769 0 -0.7071068 0 0.707106769 -0.7071068 4.01080378E-08 1 0 0.707106769 0.707106769 0 5.8445E-08 -0.707106769 0.707106769 1.20324088E-07 -2.00540153E-08 1 -0.7071067 -2.92225018E-08 0.7071068 -1 -2.005402E-08 0 -0.7071067 -0.707106769 0 -0.7071067 -2.92225018E-08 0.7071068 2.92225018E-08 0.707106769 0.7071068 -0.707106769 0.7071067 0 -0.7071067 -0.707106769 0 -0.707106769 0 -0.7071068 5.8445E-08 -0.707106769 0.707106769 0.707106769 -0.707106769 0 0.707106769 0 0.707106769 0.707106769 0 0.707106769 0.707106769 0.707106769 0 -0.707106769 0 -0.7071068 -0.707106769 0.7071067 0 0 0.707106769 -0.7071068</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.5 1 0.5 0.5 0.5 1 0.5 0.5 0.5 0.5 1 0.5 0 0.5 0.5 1 0.5 0.5 1 0.5 0.5 1 0.5 0.5 0.5 0 0.5 0.5 0 0.5 0 0.5 0.5 0 0 0.5 1 0.5 1 0.5 0.5 0 0 0.5 1 0.5 0.5 0 0 0.5 0.5 1 1 0.5 0.5 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>01 - Default</Name>
+      <Identity>
+        <SourceFilename>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGameContent\Model\Bomb.FBX</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.7058824 0.8196079 0.9058824</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.99999988</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

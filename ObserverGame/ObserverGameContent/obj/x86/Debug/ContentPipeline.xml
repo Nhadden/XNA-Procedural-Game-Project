@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>default.spritefont</Source>
+      <Name>default</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb</Output>
+      <Time>2011-03-25T11:42:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MotorwerkOblique.spritefont</Source>
+      <Name>MotorwerkOblique</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb</Output>
+      <Time>2011-04-11T15:28:26.8080637+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Asteroid1b.FBX</Source>
+      <Name>Model\Asteroid1b</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Asteroid1b_0.xml</Key>
+        <Value>2011-06-05T16:24:16.764131+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CEC38F7\Asteroid1b.fbm\3215_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\Bomb.FBX</Source>
+      <Name>Model\Bomb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Bomb_0.xml</Key>
+        <Value>2011-06-05T16:24:17.2716388+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\Laser.FBX</Source>
+      <Name>Model\Laser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Laser_0.xml</Key>
+        <Value>2011-06-05T16:24:17.3266396+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\RingRed.FBX</Source>
+      <Name>Model\RingRed</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\RingRed_0.xml</Key>
+        <Value>2011-06-05T16:24:17.3791404+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\633737F4\RingRed.fbm\ring_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\StarFighter.FBX</Source>
+      <Name>Model\StarFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb</Output>
+      <Time>2011-04-08T21:25:15.943384+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\StarFighter_0.xml</Key>
+        <Value>2011-06-05T16:24:17.6441445+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\Tunnel.FBX</Source>
+      <Name>Model\Tunnel</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\Tunnel_0.xml</Key>
+        <Value>2011-06-05T16:24:17.7366459+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\2BA7379F\Tunnel.fbm\8179_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\ringGold.FBX</Source>
+      <Name>Model\ringGold</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb</Output>
+      <Time>2011-04-12T13:01:14.8764845+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\ringGold_0.xml</Key>
+        <Value>2011-06-05T16:24:17.9441491+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model\asteroidEasy.FBX</Source>
+      <Name>Model\asteroidEasy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb</Output>
+      <Time>2011-04-12T13:34:17.5027304+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\asteroidEasy_0.xml</Key>
+        <Value>2011-06-05T16:24:18.0441506+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\82A63A16\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\asteroidHard.FBX</Source>
+      <Name>Model\asteroidHard</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb</Output>
+      <Time>2011-04-12T13:34:17.5047305+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\asteroidHard_0.xml</Key>
+        <Value>2011-06-05T16:24:18.2866543+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\824F3A03\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\asteroidHardest.FBX</Source>
+      <Name>Model\asteroidHardest</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb</Output>
+      <Time>2011-04-12T13:34:17.5077307+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\asteroidHardest_0.xml</Key>
+        <Value>2011-06-05T16:24:18.5416583+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\33D63B4F\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model\asteroidNormal.FBX</Source>
+      <Name>Model\asteroidNormal</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb</Output>
+      <Time>2011-04-12T13:34:17.5107308+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Model\asteroidNormal_0.xml</Key>
+        <Value>2011-06-05T16:24:18.786662+01:00</Value>
+      </Dependency>
+      <Request>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\F8D43AED\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SFX\arwingDoubleLaserOneShot.mp3</Source>
+      <Name>SFX\arwingDoubleLaserOneShot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingDoubleLaserThreeShots.mp3</Source>
+      <Name>SFX\arwingDoubleLaserThreeShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingDoubleLaserTwoShots.mp3</Source>
+      <Name>SFX\arwingDoubleLaserTwoShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingHitObstacle.mp3</Source>
+      <Name>SFX\arwingHitObstacle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingHyperLaserOneShot.mp3</Source>
+      <Name>SFX\arwingHyperLaserOneShot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingHyperLaserThreeShots.mp3</Source>
+      <Name>SFX\arwingHyperLaserThreeShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingHyperLaserTwoShots.mp3</Source>
+      <Name>SFX\arwingHyperLaserTwoShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingPulseLaser.mp3</Source>
+      <Name>SFX\arwingPulseLaser</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingPulseLaserExplode.mp3</Source>
+      <Name>SFX\arwingPulseLaserExplode</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingSingleLaserOneShot.mp3</Source>
+      <Name>SFX\arwingSingleLaserOneShot</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingSingleLaserThreeShots.mp3</Source>
+      <Name>SFX\arwingSingleLaserThreeShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\arwingSingleLaserTwoShots.mp3</Source>
+      <Name>SFX\arwingSingleLaserTwoShots</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\bombFireAndExplode.mp3</Source>
+      <Name>SFX\bombFireAndExplode</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\bombPickup.mp3</Source>
+      <Name>SFX\bombPickup</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\boost.mp3</Source>
+      <Name>SFX\boost</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\brake.mp3</Source>
+      <Name>SFX\brake</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\damageAlertHeavy.mp3</Source>
+      <Name>SFX\damageAlertHeavy</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\damageAlertLight.mp3</Source>
+      <Name>SFX\damageAlertLight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\damageAlertModerate.mp3</Source>
+      <Name>SFX\damageAlertModerate</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\enterTheMap.mp3</Source>
+      <Name>SFX\enterTheMap</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\laserPickup.mp3</Source>
+      <Name>SFX\laserPickup</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\mapStartMenu.mp3</Source>
+      <Name>SFX\mapStartMenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\menuDeselect.mp3</Source>
+      <Name>SFX\menuDeselect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\menuMove.mp3</Source>
+      <Name>SFX\menuMove</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\menuSelect.mp3</Source>
+      <Name>SFX\menuSelect</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\pause.mp3</Source>
+      <Name>SFX\pause</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\start.mp3</Source>
+      <Name>SFX\start</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb</Output>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Credits or Ending - Cowboy Bebop - Old School Game.mp3</Source>
+      <Name>Songs\Credits or Ending - Cowboy Bebop - Old School Game</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Songs\Title Screen - Cowboy Bebop - Meteor.mp3</Source>
+      <Name>Songs\Title Screen - Cowboy Bebop - Meteor</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb</Output>
+      <Extra>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma</Extra>
+      <Time>2011-03-26T00:00:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>uiTexture.png</Source>
+      <Name>uiTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb</Output>
+      <Time>2011-04-12T16:46:50.8567158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>UiOverlay.png</Source>
+      <Name>UiOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb</Output>
+      <Time>2011-04-12T19:39:46.2214273+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Asteroid1b.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Asteroid1b_0.xml</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\CEC38F7\Asteroid1b.fbm\3215.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CEC38F7\Asteroid1b.fbm\3215_0.xnb</Output>
+      <Time>2011-06-05T16:24:16.5641279+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Bomb.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Bomb_0.xml</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Laser.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Laser_0.xml</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\RingRed.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\RingRed_0.xml</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\633737F4\RingRed.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\633737F4\RingRed.fbm\ring_0.xnb</Output>
+      <Time>2011-06-05T16:24:17.3691402+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\StarFighter.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\StarFighter_0.xml</Output>
+      <Time>2011-04-08T21:25:15.943384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\Tunnel.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\Tunnel_0.xml</Output>
+      <Time>2011-03-25T11:43:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\2BA7379F\Tunnel.fbm\8179.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\2BA7379F\Tunnel.fbm\8179_0.xnb</Output>
+      <Time>2011-06-05T16:24:17.7291458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\ringGold.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\ringGold_0.xml</Output>
+      <Time>2011-04-12T13:01:14.8764845+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\asteroidEasy.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\asteroidEasy_0.xml</Output>
+      <Time>2011-04-12T13:34:17.5027304+01:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\82A63A16\asteroidEasy.fbm\Iron-Fledge_Stone-B.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\82A63A16\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb</Output>
+      <Time>2011-06-05T16:24:18.0166502+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\asteroidHard.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\asteroidHard_0.xml</Output>
+      <Time>2011-04-12T13:34:17.5047305+01:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\824F3A03\asteroidHard.fbm\Iron-Fledge_Stone-B.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\824F3A03\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb</Output>
+      <Time>2011-06-05T16:24:18.266654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\asteroidHardest.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\asteroidHardest_0.xml</Output>
+      <Time>2011-04-12T13:34:17.5077307+01:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\33D63B4F\asteroidHardest.fbm\Iron-Fledge_Stone-B.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\33D63B4F\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb</Output>
+      <Time>2011-06-05T16:24:18.524158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Model\asteroidNormal.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Model\asteroidNormal_0.xml</Output>
+      <Time>2011-04-12T13:34:17.5107308+01:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\F8D43AED\asteroidNormal.fbm\Iron-Fledge_Stone-B.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\F8D43AED\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb</Output>
+      <Time>2011-06-05T16:24:18.7691618+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-23T20:58:11.0192771+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

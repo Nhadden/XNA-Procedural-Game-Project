@@ -1,0 +1,860 @@
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\7999303B\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\EA182F38\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\BB442EE3\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Documents\Visual Studio 2010\Projects\ObserverGame\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\5158262C\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\E0042529\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\BB3F24D4\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\ObserverGame 28-03\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\506B2628\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\DF232525\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\BA6224D0\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 05-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\50A52629\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\DF5A2526\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\BA9824D1\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\71B02B5F\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\F0C32A5C\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\C6CB2A07\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CC0A3079\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\3BDE2F76\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CCC2F21\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\30D73198\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\30803185\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\C87E32D1\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\9609326F\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 06-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\16332A0\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\6AB3319D\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\397A3148\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\6A6F33BF\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\6A1833AC\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\89A34F8\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\D3EF3496\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 14-04 - Copy\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CC7F307B\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\3C4D2F78\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\D392F23\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\3150319A\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\30F93187\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\C8FD32D3\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\96863271\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame 17-04\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\D352351B\Asteroid1b.fbm\3215_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\35403418\RingRed.fbm\ring_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\18C33C3\Tunnel.fbm\8179_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\4163363A\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\410C3627\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\E6F03773\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\AFD93711\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+C:\Users\Seithon\Desktop\College Work\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\default.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\MotorwerkOblique.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Asteroid1b.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Bomb.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Laser.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\RingRed.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\StarFighter.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\Tunnel.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\ringGold.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidEasy.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHard.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidHardest.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Model\asteroidNormal.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHitObstacle.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserOneShot.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserOneShot.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombFireAndExplode.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\boost.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\brake.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\start.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\uiTexture.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\UiOverlay.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\CEC38F7\Asteroid1b.fbm\3215_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\633737F4\RingRed.fbm\ring_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\2BA7379F\Tunnel.fbm\8179_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\82A63A16\asteroidEasy.fbm\Iron-Fledge_Stone-B_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\824F3A03\asteroidHard.fbm\Iron-Fledge_Stone-B_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\33D63B4F\asteroidHardest.fbm\Iron-Fledge_Stone-B_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\FBX\F8D43AED\asteroidNormal.fbm\Iron-Fledge_Stone-B_0.xnb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserOneShot.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserThreeShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingDoubleLaserTwoShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserThreeShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingHyperLaserTwoShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaser.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingPulseLaserExplode.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserThreeShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\arwingSingleLaserTwoShots.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\bombPickup.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertHeavy.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertLight.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\damageAlertModerate.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\enterTheMap.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\laserPickup.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\mapStartMenu.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuDeselect.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuMove.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\menuSelect.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\SFX\pause.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Credits or Ending - Cowboy Bebop - Old School Game.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Content\Songs\Title Screen - Cowboy Bebop - Meteor.wma
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.exe
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\ObserverGame.pdb
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.dll
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.dll
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.dll
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.dll
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\Nuclex.Input.xml
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\NMock2.xml
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\SlimDX.DirectInput.xml
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\bin\x86\Debug\nunit.framework.xml
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.exe
+D:\External Backup\College Work Completed - Backup\Project Work\ObserverGame Final Revision\ObserverGame\ObserverGame\obj\x86\Debug\ObserverGame.pdb
